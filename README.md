@@ -22,4 +22,4 @@ I am Full Stack Developer passionate about continuously expanding my skills and 
 
 # 🌐 Contact me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/mohith_b_a_?igshid=MzNlNGNkZWQ4Mg==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mohith-b-a-ba8a22230) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohith-b-a-ba8a22230) 
