@@ -70,7 +70,7 @@ I am Full Stack Developer passionate about continuously expanding my skills and 
 
 ## Connect with me:
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohith-b-a-ba8a22230" target="_blank">
+<a href="https://www.linkedin.com/in/mohith-b-a-ba8a22230" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/https://www.instagram.com/mohith_b_a_/" target="_blank">
