@@ -1,5 +1,7 @@
+-----
+[![](https://visitcount.itsvg.in/api?id=MOHITH-2002&icon=0&color=1)](https://visitcount.itsvg.in)
 <div align="center">
-<img src="https://res.cloudinary.com/dpgxmmowq/image/upload/v1693929762/manuclg-modified_oqzgqs.png" align="center" style="width: 25%" />
+<img src="https://res.cloudinary.com/dpgxmmowq/image/upload/v1693929762/manuclg-modified_oqzgqs.png" align="center" style="width: 30%" />
 </div>  
   
 
@@ -93,7 +95,7 @@ I am Full Stack Developer passionate about continuously expanding my skills and 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=MOHITH-2002&&style=flat-square" align="center" />
+
 </div>  
   
 
@@ -103,4 +105,4 @@ I am Full Stack Developer passionate about continuously expanding my skills and 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
