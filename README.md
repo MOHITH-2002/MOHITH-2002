@@ -7,7 +7,7 @@ A full-stack developer who is passionate about solving problems and is currently
 <br/>  
 
 
-## My Skill Set  
+## My Skills
 
 
 ### Coding 👨‍💻  
@@ -58,28 +58,27 @@ A full-stack developer who is passionate about solving problems and is currently
 <br/>  
 
 
+  
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=MOHITH-2002&show_icons=true&count_private=true&hide_border=true" align="center" />  
+
+<br/>  
+
 ## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohith-b-a-ba8a22230/" target="_blank">
+<div align="left">
+<a href="https://www.linkedin.com/in/mohith-b-a-ba8a22230/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/mohith_b_a" target="_blank">
+<a href="https://www.instagram.com/mohith_b_a" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
 
-<br/>  
+<br/>
 
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=MOHITH-2002&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
-
-
-### Support  
+## Support  
 <div align="left">
             <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mohithba93z" target="_blank" style="display: inline-block;">
                 <img
