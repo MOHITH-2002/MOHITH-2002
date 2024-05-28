@@ -63,7 +63,13 @@ A full-stack developer who is passionate about solving problems and is currently
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=MOHITH-2002&show_icons=true&count_private=true&hide_border=true" align="center" />  
 
-<br/>  
+<br/> 
+
+## LeetCode & GFG Stats
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/mohithba9353?theme=dark&font=IBM%20Plex%20Sans" align="center" />
+<img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=mohithba9353" align="center" />  
+</div>
 
 ## Connect with me  
 <div align="left">
