@@ -1,4 +1,4 @@
-## <div align="center">I'm MOHITH B A, a Full Stack web developer 👨‍💻, DevOps Enthusiast♾️ </div>  
+## <div align="center">I'm MOHITH B A, a Full Stack web developer  </div>  
   
 
 A full-stack developer who is passionate about solving problems and is currently studying at KLE Technological University. I learn new technologies fast and I’m currently upskilling in DevOps.  
