@@ -1,7 +1,6 @@
 ## <div align="center">I'm MOHITH B A, a Full Stack web developer  </div>  
   
-
-A full-stack developer who is passionate about solving problems and is currently studying at KLE Technological University. I learn new technologies fast and I’m currently upskilling in DevOps.  
+A passionate full-stack developer with 10 months of hands-on internship experience in building scalable web applications and implementing robust DevOps solutions. I specialize in end-to-end development using modern technologies and have successfully deployed applications with comprehensive CI/CD pipelines. My expertise spans across frontend frameworks, backend architectures, and cloud infrastructure management. I thrive on solving complex problems and transforming ideas into production-ready solutions. Currently building an innovative AI agent while continuously expanding my technical expertise in emerging technologies.
   
 
 <br/>  
@@ -39,18 +38,12 @@ A full-stack developer who is passionate about solving problems and is currently
 </div>  
 
 
-
 ### DevOps ♾️  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<div align="center">    
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 </div>  
@@ -59,6 +52,7 @@ A full-stack developer who is passionate about solving problems and is currently
 
 
   
+
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=MOHITH-2002&show_icons=true&count_private=true&hide_border=true" align="center" />  
